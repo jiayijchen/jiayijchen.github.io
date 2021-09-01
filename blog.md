@@ -6,7 +6,7 @@ Hello all!
 
 Welcome to my blog where I will be documenting my journey through the Awesome Inc Web Developer Bootcamp. My name is Jia-Yi (Jacob) Chen and I am a UKY '19 Computer Science graduate with a bit of post-grad experience in education. I joined this bootcamp with the desire to learn the intricacies of web development beyond what I learned during my undergrad and also as a coding refresher. Here, I hope to keep a weekly-updated log of my experiences, excitements, frustrations, and evertyhing else in between. Thank you for reading and enjoy!
 
-## Week 1 (8/23 - 8/27): _Git-R-Done_
+## Week 1 (8/23-8/27): _Git-R-Done_
 _Finishing pre-work and onto onboarding--starting with a (re-)introduction into version control._
 
 The first official week of the bootcamp, "Onboarding: Sprint 1" is complete and I gotta say, I have learned a lot.
