@@ -6,8 +6,8 @@ Hello all!
 
 Welcome to my blog where I will be documenting my journey through the Awesome Inc Web Developer Bootcamp. My name is Jia-Yi (Jacob) Chen and I am a UKY '19 Computer Science graduate with a bit of post-grad experience in education. I joined this bootcamp with the desire to learn the intricacies of web development beyond what I learned during my undergrad and also as a coding refresher. Here, I hope to keep a weekly-updated log of my experiences, excitements, frustrations, and evertyhing else in between. Thank you for reading and enjoy!
 
-## Week 1: Git-R-Done
-*Finishing pre-work and onto onboarding--starting with a (re-)introduction into version control.*
+## Week 1 (8/23 - 8/27): _Git-R-Done_
+_Finishing pre-work and onto onboarding--starting with a (re-)introduction into version control._
 
 The first official week of the bootcamp, "Onboarding: Sprint 1" is complete and I gotta say, I have learned a lot.
 
@@ -31,7 +31,27 @@ I was able to finish the pre-work about halfway through the week and have even r
 
 ### 2. Onboarding: Sprint 1
 The main focus of this week has been to complete our first Onboarding sprint. This sprint focused on learning version control and the fundamentals of git and GitHub, and introduced our first project, creating this blog (which seems to be going well so far)! 
-In college, I can think of only one project where I actually needed to use git, which is a shockingly low number considering version control is a necessity among group work and millions of developers and major tech companies maintain their software using GitHub (according to the GitHub website).
+In college, I can think of only one project where I actually needed to use git, which is a shockingly low number considering version control is a necessity in a team environment and millions of developers and major tech companies maintain their software using GitHub (according to the GitHub website). 
+On top of that, none of my classes taught how to use git; its normally a solo-adventure. Needless to say, I never got to fully use git and all its features, so getting to learn all of the basics of it and its functionalities has been helpful and fun.
+
+_Questions for the blog:_
+> Was your first week what you expected? Why? Why not?
+
+Yes and no. Yes in that my expectations were based on friends who had taken this bootcamp in the past; I had a good understanding of what I was in for and how it might've started out. No in that Justin and Ian are much friendlier and accommodating than I had expected. They create a positive, nonjudgmental learning environment, and I am eager to see how the rest of the weeks will play out with them at the helm!
+
+> What are you excited or eager to learn more about?
+
+So far, my web development experience consists of only using HTML and CSS, and maybe a little bit of PHP and JavaScript. I'm excited to learn about the additional developer tools and packages we will be using and how they are used.
+
+> What is something about you that can only be learned by reading this blog?
+
+Something I get asked a lot is how I went from graduating with a Computer Science degree to teaching at the [#2 Best Private Elementary School in the US.](http://blog.thelexingtonschool.org/2015/10/20/the-lexington-school-named-in-best-private-elementary-schools/) 
+During my undergrad, I spent a lot of time working at [Newton's Attic](https://newtonsattic.com/index.php) (NA), an educational nonprofit that focuses on stimulating youth interests in science and engineering. 
+I instucted for many summer camp classes (Intro to Python Coding, Nerf Gun Mods, Rocket Dragsters, etc.) and field trip activities. 
+A couple years ago, The Lexington School (TLS), where several NA students attended, reached out to NA to fill a Computer Science teacher position. 
+I got recommended and ended up teaching full time, not just in Computer Science, but also in math and elementary science. As much as I enjoy teaching, it's and incredibly stressful field to get thrown into without much experience, so I decided to take a step back and learn more about the field I started with, which brings me to the bootcamp today!
+
+
 
 
 
