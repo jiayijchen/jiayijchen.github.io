@@ -41,7 +41,7 @@ Yes and no. Yes in that my expectations were based on friends who had taken this
 
 > What are you excited or eager to learn more about?
 
-So far, my web development experience consists of only using HTML and CSS, and maybe a little bit of PHP and JavaScript. I'm excited to learn about the additional developer tools and packages we will be using and how they are used.
+So far, my web development experience consists of only using HTML and CSS, and maybe a little bit of PHP and JavaScript. I'm excited to learn about the additional developer tools and packages we will be using and how they will be used.
 
 > What is something about you that can only be learned by reading this blog?
 
