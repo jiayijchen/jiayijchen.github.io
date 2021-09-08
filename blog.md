@@ -7,32 +7,28 @@ My name is Jia-Yi (Jacob) Chen and I am a UKY '19 Computer Science graduate with
 I joined this bootcamp with the desire to learn the intricacies of web development beyond what I learned during my undergrad and also as a coding refresher. 
 Here, I hope to keep a weekly-updated log of my experiences, excitements, frustrations, and evertyhing else in between. Thank you for reading and enjoy!
 
-<details>
-  <summary><strong>Week 2:</strong> Aug 30 - Sept 3</summary>
-  
-  ## Week 2: HTML & CSS
-  _Reviewing HTML & CSS and structuring content on a webpage_
-  
-  ## Onboarding: Spring 2
-  
-  _Questions for the blog:_
-  > What is something you wish you could do but currently do not have the coding skills to accomplish?
-  
-  Create a webpage with really nice buttons. Webpages I have made in the past have always seemed "choppy" due the buttons being square and unresponsive.
-  I don't really know how to explain it, but sometimes you can feel how well-made a webpage is by how well the buttons and clickable things work.
-  
-  > What are you struggling with?
-  
-  Staying motivated. I get excited starting out every day but lose that motivation quickly after only a few minutes of getting into the readings or videos.
-  I think this stems from the content being a mix of things I'm familiar with and things that are new. I'm excited to learn new things but get bored when reviewing things I have seen before.
-  I just have to stay focused on the long-term and pushing through.
-  
-  > How do you solve a problem? What methods do you use to help yourself get unstuck?
-  
-  
-  
-</details>
+## Week 2: HTML & CSS
+_Reviewing HTML & CSS and structuring content on a webpage_
 
+### Onboarding: Spring 2
+
+_Questions for the blog:_
+> What is something you wish you could do but currently do not have the coding skills to accomplish?
+
+Create a webpage with really nice buttons. Webpages I have made in the past have always seemed "choppy" due the buttons being square and unresponsive.
+I don't really know how to explain it, but sometimes you can feel how well-made a webpage is by how well the buttons and clickable things work.
+
+> What are you struggling with?
+
+Staying motivated. I get excited starting out every day but lose that motivation quickly after only a few minutes of getting into the readings or videos.
+I think this stems from the content being a mix of things I'm familiar with and things that are new. I'm excited to learn new things but get bored when reviewing things I have seen before.
+I just have to stay focused on the long-term and pushing through.
+
+> How do you solve a problem? What methods do you use to help yourself get unstuck?
+
+In this field, I feel like most problems one might run into have been ran into before by someone else. So, my first step is always a quick google, and this usually gets me unstuck. If I am still stuck, I try to reach out to people that have been stuck in my situation before for advice.
+
+#### Past weeks:
 <details>
   <summary><strong>Week 1:</strong> Aug 23 - Aug 27</summary>
   
