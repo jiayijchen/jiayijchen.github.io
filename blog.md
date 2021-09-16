@@ -7,28 +7,51 @@ My name is Jia-Yi (Jacob) Chen and I am a UKY '19 Computer Science graduate with
 I joined this bootcamp with the desire to learn the intricacies of web development beyond what I learned during my undergrad and also as a coding refresher. 
 Here, I hope to keep a weekly-updated log of my experiences, excitements, frustrations, and evertyhing else in between. Thank you for reading and enjoy!
 
-## Week 2: HTML & CSS
-_Reviewing HTML & CSS and structuring content on a webpage_
+## Week 3: JavaScript
+_Learning JavaScript and creating my first webpage_
 
-### Onboarding: Spring 2
+### Onboarding: Sprint 3
 
 _Questions for the blog:_
-> What is something you wish you could do but currently do not have the coding skills to accomplish?
+> What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
 
-Create a webpage with really nice buttons. Webpages I have made in the past have always seemed "choppy" due the buttons being square and unresponsive.
-I don't really know how to explain it, but sometimes you can feel how well-made a webpage is by how well the buttons and clickable things work.
+On the one hand, it's nice having each part of the webpage on its own file--structure on one, style on another, and function on a third. It makes it somewhat easier to identify where an issue might be coming from. On the other hand, there's a much higher learning curve. I feel like you have to keep your skill in each area at the same level to really flesh out a good webpage.
 
-> What are you struggling with?
+> What are some objects that your blog incorporates?
 
-Staying motivated. I get excited starting out every day but lose that motivation quickly after only a few minutes of getting into the readings or videos.
-I think this stems from the content being a mix of things I'm familiar with and things that are new. I'm excited to learn new things but get bored when reviewing things I have seen before.
-I just have to stay focused on the long-term and pushing through.
+My blog has only incorporates collapsible sections so far. I've been meaning to add pictures though.
 
-> How do you solve a problem? What methods do you use to help yourself get unstuck?
+> What are your thoughts on pseudo coding?
 
-In this field, I feel like most problems one might run into have been ran into before by someone else. So, my first step is always a quick google, and this usually gets me unstuck. If I am still stuck, I try to reach out to people that have been stuck in my situation before for advice.
+I think pseudo coding is beneficial. It's helpful to physically plan out your process rather than just jump straight into it. Especially with coding. More often than not, I run into some issue and after taking time to fix it, I forgot why I had the issue in the first place.
 
 #### Past weeks:
+
+<details>
+  <summary><strong>Week 2:</strong> Aug 30 - Sept 3</summary>
+
+  ## Week 2: HTML & CSS
+  _Reviewing HTML & CSS and structuring content on a webpage_
+
+  ### Onboarding: Sprint 2
+
+  _Questions for the blog:_
+  > What is something you wish you could do but currently do not have the coding skills to accomplish?
+
+  Create a webpage with really nice buttons. Webpages I have made in the past have always seemed "choppy" due the buttons being square and unresponsive.
+  I don't really know how to explain it, but sometimes you can feel how well-made a webpage is by how well the buttons and clickable things work.
+
+  > What are you struggling with?
+
+  Staying motivated. I get excited starting out every day but lose that motivation quickly after only a few minutes of getting into the readings or videos.
+  I think this stems from the content being a mix of things I'm familiar with and things that are new. I'm excited to learn new things but get bored when reviewing things I have seen before.
+  I just have to stay focused on the long-term and pushing through.
+
+  > How do you solve a problem? What methods do you use to help yourself get unstuck?
+
+  In this field, I feel like most problems one might run into have been ran into before by someone else. So, my first step is always a quick google, and this usually gets me unstuck. If I am still stuck, I try to reach out to people that have been stuck in my situation before for advice.
+</details>
+
 <details>
   <summary><strong>Week 1:</strong> Aug 23 - Aug 27</summary>
   
