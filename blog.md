@@ -23,7 +23,7 @@ My blog has only incorporates collapsible sections so far. I've been meaning to 
 
 > What are your thoughts on pseudo coding?
 
-I think pseudo coding is beneficial. It's helpful to physically plan out your process rather than just jump straight into it. Especially with coding. More often than not, I run into some issue and after taking time to fix it, I forgot why I had the issue in the first place.
+I think pseudo coding is beneficial. It's helpful to physically plan out your process rather than just jump straight into it. Especially with coding. More often than not, I run into some issue and after taking time to fix it, I forgot why I had the issue in the first place. I certainly don't pseudocode as much as I should.
 
 #### Past weeks:
 
