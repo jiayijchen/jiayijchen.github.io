@@ -8,10 +8,12 @@ I joined this bootcamp with the desire to learn the intricacies of web developme
 Here, I hope to keep a weekly-updated log of my experiences, excitements, frustrations, and evertyhing else in between. Thank you for reading and enjoy!
 
 ## Week 4: Last week of Onboarding
+_Questions for the blog:_
+> What was helpful during Onboarding working remotely?
 
-What was helpful during Onboarding working remotely?
-What hindered your progress during Onboarding?
-How did you overcome challenges during Onboarding?
+> What hindered your progress during Onboarding?
+
+> How did you overcome challenges during Onboarding?
 
 
 ## Week 3: JavaScript
