@@ -7,6 +7,13 @@ My name is Jia-Yi (Jacob) Chen and I am a UKY '19 Computer Science graduate with
 I joined this bootcamp with the desire to learn the intricacies of web development beyond what I learned during my undergrad and also as a coding refresher. 
 Here, I hope to keep a weekly-updated log of my experiences, excitements, frustrations, and evertyhing else in between. Thank you for reading and enjoy!
 
+## Week 4: Last week of Onboarding
+
+What was helpful during Onboarding working remotely?
+What hindered your progress during Onboarding?
+How did you overcome challenges during Onboarding?
+
+
 ## Week 3: JavaScript
 _Learning JavaScript and creating my first webpage_
 
