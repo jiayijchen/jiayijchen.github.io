@@ -8,6 +8,11 @@ I joined this bootcamp with the desire to learn the intricacies of web developme
 Here, I hope to keep a weekly-updated log of my experiences, excitements, frustrations, and evertyhing else in between. Thank you for reading and enjoy!
 
 ## Week 4: Last week of Onboarding
+_I've been slacking on the blog. I feel like I have tons of good thoughts, but forget them due to being overwhelmed by the number of things to do. I need to do better. 
+Moving forward, I'm gonna try to just write things out as they come, and then recompile those thoughts at the end of the week._
+
+The last week of onboarding was a Pseudocode project, learning about Katas on Codewars, and a bouncing ball project, but I managed to only complete the first. I decided to pseudocode cooking a meal, but it turned out to be more difficult than I thought it would be. I think it's hard to translate cooking skills to code, because there's not much happening conditionally or in a loop. I decided on How to Cook Scrambled Eggs, but writing it all out made me doubt whether I knew how to even cook eggs, haha. I started out with actual instructions, and slowly translated that over to pseudocode. I'm not happy with the final product, but I think it covered the requirements for the project. Check it out [here](https://github.com/jiayichen0/pseudocode/blob/main/pseudocode.md).
+
 _Questions for the blog:_
 > What was helpful during Onboarding working remotely?
 
@@ -21,25 +26,37 @@ As nice as it is to have freedom to step away from the computer, it is also a bi
 
 Taking a lot of breaks, both mentally and physically. Working whenever I felt productive and taking breaks when I did not. 
 
-## Week 3: JavaScript
-_Learning JavaScript and creating my first webpage_
-
-### Onboarding: Sprint 3
-
-_Questions for the blog:_
-> What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
-
-On the one hand, it's nice having each part of the webpage on its own file--structure on one, style on another, and function on a third. It makes it somewhat easier to identify where an issue might be coming from. On the other hand, there's a much higher learning curve. I feel like you have to keep your skill in each area at the same level to really flesh out a good webpage.
-
-> What are some objects that your blog incorporates?
-
-My blog has only incorporates collapsible sections so far. I've been meaning to add pictures though.
-
-> What are your thoughts on pseudo coding?
-
-I think pseudo coding is beneficial. It's helpful to physically plan out your process rather than just jump straight into it. Especially with coding. More often than not, I run into some issue and after taking time to fix it, I forgot why I had the issue in the first place. I certainly don't pseudocode as much as I should.
-
 #### Past weeks:
+
+<details>
+  <summary><strong>Week 3: </strong>Sept 6 - Sept 10</summary>
+
+  ## Week 3: JavaScript
+  _Learning JavaScript and creating my first webpage_
+
+  ### Onboarding: Sprint 3
+  It's been a while since I used an actual coding language (I think the last thing I used was Python to code a game), so learning Javascript was fun to learn.
+  I'm sure I have an advantage having already learned a lot of the logic behind many of the structures and statements, but truthfully, I still found myself reading through lots of documentation due to language differences. 
+  I wonder how the difficulty compares to translating spoken languages (probably a lot easier). Anyways, this week we created our first webpages that consist of both HTML/CSS and Javascript components.
+  The first was a Silly Story Generator, which was another hand-holding-y project from Mozilla. This one was really simple to complete.
+  The second project was creating a webpage displaying a digital alarm clock, which I wasn't able to do until later. This one felt like a huge step up from the Silly Story generator. I initially didn't know where to start, but eventually figured it out. The most challenging part was just get the HTML and JS to work together. 
+  
+  _Questions for the blog:_
+  > What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+
+  On the one hand, it's nice having each part of the webpage on its own file--structure on one, style on another, and function on a third. 
+  It makes it somewhat easier to identify where an issue might be coming from. On the other hand, there's a much higher learning curve. 
+  I feel like you have to keep your skill in each area at the same level to really flesh out a good webpage.
+
+  > What are some objects that your blog incorporates?
+
+  My blog has only incorporates collapsible sections so far. I've been meaning to add pictures though.
+
+  > What are your thoughts on pseudo coding?
+
+  I think pseudo coding is beneficial. It's helpful to physically plan out your process rather than just jump straight into it. Especially with coding. More often than not, I run into some issue and after taking time to fix it, I forgot why I had the issue in the first place. I certainly don't pseudocode as much as I should.
+
+</details>
 
 <details>
   <summary><strong>Week 2:</strong> Aug 30 - Sept 3</summary>
@@ -48,7 +65,8 @@ I think pseudo coding is beneficial. It's helpful to physically plan out your pr
   _Reviewing HTML & CSS and structuring content on a webpage_
 
   ### Onboarding: Sprint 2
-
+  Lots of Grasshopper and our first "project". We had to structure the content of a webpage using HTML and CSS. This wasn't too challenging, as the project page explained everything step-by-step, but it was nice to see how the webpage changed with each piece of code added.
+  
   _Questions for the blog:_
   > What is something you wish you could do but currently do not have the coding skills to accomplish?
 
