@@ -11,10 +11,15 @@ Here, I hope to keep a weekly-updated log of my experiences, excitements, frustr
 _Questions for the blog:_
 > What was helpful during Onboarding working remotely?
 
+The #help channel was incredibly helpful. It was a nice convenience to have when you're a couple steps behind or when you are working at odd-hours throughout the day. The flexible working hours was helpful as well. It helped in allowing an easier transition from my previous job to the bootcamp.
+
 > What hindered your progress during Onboarding?
+
+As nice as it is to have freedom to step away from the computer, it is also a bit of a challenge. It's harder to stay motivated and focused when working from home, so I believe that hindered a lot of my progress.
 
 > How did you overcome challenges during Onboarding?
 
+Taking a lot of breaks, both mentally and physically. Working whenever I felt productive and taking breaks when I did not. 
 
 ## Week 3: JavaScript
 _Learning JavaScript and creating my first webpage_
