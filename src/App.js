@@ -13,7 +13,7 @@ import {
 function App() {
   return (
     <div className="App">
-      <header className="text-center bg-dark pt-4">
+      <header className="text-center bg-dark pt-5 pb-4">
           <div className="h1 d-inline-block text-white" style={{ fontFamily: "Permanent Marker" }}>Jacob</div>
           <div className="h1 d-inline ps-2 strokewhite" style={{ fontFamily: "Permanent Marker" }}>Chen</div>
       </header>

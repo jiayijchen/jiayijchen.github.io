@@ -16,7 +16,7 @@ export default function AboutMe() {
                 </h3>
             </div>
             <div className="row">
-                <div className="col-8 offset-2 text-start">
+                <div className="col-8 offset-2 text-start" style={{ fontFamily: "Varela Round" }}>
                     <p className="text-center">
                         Hello, my name is Jacob Chen.
                     </p>
