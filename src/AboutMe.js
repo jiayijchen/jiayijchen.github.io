@@ -11,8 +11,8 @@ export default function AboutMe() {
             </div>
             <div className="row">
                 <h3>
-                    <div className="d-inline-block pt-3 strokeme" style={{ fontFamily: "Permanent Marker" }}>About</div>
-                    <div className="d-inline pt-3 ps-2" style={{ fontFamily: "Permanent Marker" }}>Me</div>
+                    <div className="d-inline-block pt-3" style={{ fontFamily: "Permanent Marker" }}>About</div>
+                    <div className="d-inline pt-3 ps-2 strokeme" style={{ fontFamily: "Permanent Marker" }}>Me</div>
                 </h3>
             </div>
             <div className="row">
