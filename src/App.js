@@ -14,13 +14,12 @@ function App() {
   return (
     <div className="App">
       <header className="text-center bg-dark pt-5 pb-4">
-          <div className="h1 d-inline-block text-white" style={{ fontFamily: "Permanent Marker" }}>Jacob</div>
-          <div className="h1 d-inline ps-2 strokewhite" style={{ fontFamily: "Permanent Marker" }}>Chen</div>
+        <h1 className="h1-animate">Jacob Chen</h1>
       </header>
       <Router>
         <Navbar bg="dark" variant="dark">
           <Container>
-            <Nav className="m-auto" style={{ fontFamily: "Varela Round" }}>
+            <Nav className="m-auto">
               <NavLink to="/" exact={true} className="nav-link" activeClassName="active">Home</NavLink>
               <NavLink to="/about" className="nav-link" activeClassName="active">About</NavLink>
               <NavLink to="/contact" className="nav-link" activeClassName="active">Contact</NavLink>

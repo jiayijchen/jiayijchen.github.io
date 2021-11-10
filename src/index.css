@@ -1,3 +1,19 @@
+
+/*
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Red Hat Mono', monospace;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Varela Round', sans-serif;
+*/
+
+body {
+  background: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
 body {
   margin: 0;
   font-family: 'Varela Round', sans-serif;
@@ -5,7 +21,34 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.font-1 {
+    font-family: 'Poppins', sans-serif;
 }
+
+.h1-animate {
+    text-align: center;
+    padding-top: -140px;
+    font-size: 13vw;
+    line-height: 1.2;
+    background: 
+      linear-gradient(-45deg, #33cc99, #f26d7d, #fce130);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    margin: auto;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
