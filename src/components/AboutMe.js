@@ -1,5 +1,5 @@
-import React from 'react'
-import Selfie from './chen_square.jpg'
+import React from 'react';
+import Selfie from '../chen_square.jpg';
 
 export default function AboutMe() {
     return (
