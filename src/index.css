@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display&family=Red+Hat+Mono&family=Roboto&family=Roboto+Mono&family=Roboto+Slab:wght@100;400&family=Varela+Round&display=swap');
 /*
   font-family: 'Montserrat', sans-serif;
   font-family: 'Playfair Display', serif;
@@ -9,46 +9,17 @@
   font-family: 'Varela Round', sans-serif;
 */
 
-body {
-  background: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  overflow-x: hidden;
-}
-body {
-  margin: 0;
-  font-family: 'Varela Round', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* body {
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+} */
+
+.font1 {
+  font-family: 'Roboto Slab', serif;
 }
 
-.font-1 {
-    font-family: 'Poppins', sans-serif;
+.font2 {
+  font-family: 'Roboto Mono', monospace;
 }
-
-.h1-animate {
-    text-align: center;
-    padding-top: -140px;
-    font-size: 13vw;
-    line-height: 1.2;
-    background: 
-      linear-gradient(-45deg, #33cc99, #f26d7d, #fce130);
-    background-size: 400% 400%;
-    animation: gradient 10s ease infinite;
-    margin: auto;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-

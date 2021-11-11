@@ -1,13 +1,55 @@
-.strokewhite
-{
+
+.strokewhite {
     text-shadow:
-    -1px -1px 0 rgb(255, 255, 255),
-    1px -1px 0 rgb(255, 255, 255),
-    -1px 1px 0 rgb(255, 255, 255),
-    1px 1px 0 rgb(255, 255, 255);  
+        -1px -1px 0 rgb(255, 255, 255),
+        1px -1px 0 rgb(255, 255, 255),
+        -1px 1px 0 rgb(255, 255, 255),
+        1px 1px 0 rgb(255, 255, 255);
 }
 
-.justify {
-  text-align: justify;
-  text-justify: inter-word;
+.landing {
+    vertical-align: middle;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: 80vh;
+    position: relative;
+    text-align: center;
+}
+
+.bigfont {
+  font-size: 15vw;
+}
+
+.glow {
+    text-align: center;
+    /* padding-top: -140px; */
+    /* line-height: 1.2; */
+    background:
+        linear-gradient(-45deg, #33cc99, #f26d7d, #fce130);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    /* margin: auto; */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
 }
