@@ -9,7 +9,7 @@ import {
 
 export default function NavBar() {
   return (
-    <Navbar bg="light" variant="light" className="shadow-lg">
+    <Navbar bg="dark" variant="dark" className="shadow-lg font2">
       <Nav className="m-auto">
         <NavLink to="/" exact={true} className="nav-link" activeClassName="active">Home</NavLink>
         <NavLink to="/about" className="nav-link" activeClassName="active">About</NavLink>
