@@ -8,19 +8,15 @@
 }
 
 .landing {
-    vertical-align: middle;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-    min-height: 80vh;
-    position: relative;
-    text-align: center;
+    min-height: 90vh;
 }
+
+/* footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+} */
 
 .bigfont {
   font-size: 15vw;
@@ -38,6 +34,10 @@
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
+}
+
+.bi-custom-size {
+  font-size: 2em;
 }
 
 @keyframes gradient {

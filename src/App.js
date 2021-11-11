@@ -3,6 +3,7 @@ import AboutMe from './components/AboutMe.js';
 import React from 'react';
 import Landing from './components/Landing.js';
 import NavBar from './components/NavBar.js';
+import Footer from './components/Footer.js';
 import {
   BrowserRouter as Router,
   Switch,
@@ -30,7 +31,8 @@ function App() {
         </Router>
       </header>
       <Landing />
-    </div>
+      <Footer />
+    </div >
   );
 }
 
