@@ -1,11 +1,22 @@
-body {
-  margin: 0;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&family=Playfair+Display&family=Red+Hat+Mono&family=Roboto&family=Roboto+Mono&family=Roboto+Slab:wght@100;400&family=Varela+Round&display=swap');
+/*
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Red Hat Mono', monospace;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Slab', serif;
   font-family: 'Varela Round', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+*/
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* body {
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+} */
+
+body { 
+  padding-top: 50px;
+  /* padding-bottom: 50px; */
 }

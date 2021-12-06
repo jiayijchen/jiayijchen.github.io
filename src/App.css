@@ -1,13 +1,67 @@
-.strokewhite
-{
-    text-shadow:
-    -1px -1px 0 rgb(255, 255, 255),
-    1px -1px 0 rgb(255, 255, 255),
-    -1px 1px 0 rgb(255, 255, 255),
-    1px 1px 0 rgb(255, 255, 255);  
+.font1 {
+  font-family: 'Roboto Slab', serif;
 }
 
-.justify {
-  text-align: justify;
-  text-justify: inter-word;
+.font2 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.font-light {
+  color:rgb(221, 219, 219);
+}
+
+.strokewhite {
+    text-shadow:
+        -1px -1px 0 rgb(255, 255, 255),
+        1px -1px 0 rgb(255, 255, 255),
+        -1px 1px 0 rgb(255, 255, 255),
+        1px 1px 0 rgb(255, 255, 255);
+}
+
+.landing {
+    min-height: 95vh;
+}
+
+.bigfont {
+  font-size: 15vw;
+}
+
+.glow {
+    background:
+        linear-gradient(-45deg, #33a1cc, #f26d7d, #fce130);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.blog {
+  /* background: white; */
+  /* color: #222222; */
+  /* max-width: 600px; */
+  /* margin: auto; */
+  /* font-family: sans-serif; */
+}
+
+.txt:hover {
+  text-decoration: underline;
+}
+
+.bi-custom-icon {
+  font-size: 2em;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
 }
