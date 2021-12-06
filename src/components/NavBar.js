@@ -9,11 +9,12 @@ import {
 
 export default function NavBar() {
   return (
-    <Navbar bg="dark" variant="dark" className="shadow-lg font2">
+    <Navbar bg="light" variant="light" className="shadow-lg font2 fixed-top">
       <Nav className="m-auto">
         <NavLink to="/" exact={true} className="nav-link" activeClassName="active">Home</NavLink>
         <NavLink to="/about" className="nav-link" activeClassName="active">About</NavLink>
-        <NavLink to="/contact" className="nav-link" activeClassName="active"> Contact </NavLink>
+        <NavLink to="/portfolio" className="nav-link" activeClassName="active">Portfolio</NavLink>
+        <NavLink to="/blog" className="nav-link" activeClassName="active">Blog</NavLink>
       </Nav>
     </Navbar>
   )

@@ -1,3 +1,14 @@
+.font1 {
+  font-family: 'Roboto Slab', serif;
+}
+
+.font2 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.font-light {
+  color:rgb(221, 219, 219);
+}
 
 .strokewhite {
     text-shadow:
@@ -8,35 +19,36 @@
 }
 
 .landing {
-    min-height: 90vh;
+    min-height: 95vh;
 }
-
-/* footer {
-    position: fixed;
-    height: 50px;
-    bottom: 0;
-    width: 100%;
-} */
 
 .bigfont {
   font-size: 15vw;
 }
 
 .glow {
-    text-align: center;
-    /* padding-top: -140px; */
-    /* line-height: 1.2; */
     background:
-        linear-gradient(-45deg, #33cc99, #f26d7d, #fce130);
+        linear-gradient(-45deg, #33a1cc, #f26d7d, #fce130);
     background-size: 400% 400%;
     animation: gradient 10s ease infinite;
-    /* margin: auto; */
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
 }
 
-.bi-custom-size {
+.blog {
+  /* background: white; */
+  /* color: #222222; */
+  /* max-width: 600px; */
+  /* margin: auto; */
+  /* font-family: sans-serif; */
+}
+
+.txt:hover {
+  text-decoration: underline;
+}
+
+.bi-custom-icon {
   font-size: 2em;
 }
 

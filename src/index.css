@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display&family=Red+Hat+Mono&family=Roboto&family=Roboto+Mono&family=Roboto+Slab:wght@100;400&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&family=Playfair+Display&family=Red+Hat+Mono&family=Roboto&family=Roboto+Mono&family=Roboto+Slab:wght@100;400&family=Varela+Round&display=swap');
 /*
   font-family: 'Montserrat', sans-serif;
   font-family: 'Playfair Display', serif;
@@ -16,10 +16,7 @@
     -moz-osx-font-smoothing: grayscale;
 } */
 
-.font1 {
-  font-family: 'Roboto Slab', serif;
-}
-
-.font2 {
-  font-family: 'Roboto Mono', monospace;
+body { 
+  padding-top: 50px;
+  /* padding-bottom: 50px; */
 }
