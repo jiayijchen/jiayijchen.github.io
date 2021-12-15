@@ -1,9 +1,9 @@
 import React from 'react';
-import BlogPost from './BlogPost.js';
+import ProjectCard from './ProjectCard.js';
 
-export default function Blog(props) {
-  let blog = [...props.blogData].reverse();
-  // console.log(blog);
+export default function Portfolio(props) {
+  let projects = [...props.projectsData];
+  // console.log(projects);
 
   return (
     <div className="landing">
@@ -11,13 +11,13 @@ export default function Blog(props) {
         <div className="col-sm-10 offset-sm-1 pt-2">
         <div className="h1 font2">
           <span className="font-light txt">jacob_chen</span>
-          <span className="font-light fw-bold">/blog</span>
+          <span className="font-light fw-bold">/portfolio</span>
         </div>
           <div className="row pt-3">
-            {blog.length > 0
-              ? blog.map((blogPost) => {
+            {projects.length > 0
+              ? projects.map((project) => {
                 return (
-                  <BlogPost key={blogPost.id} blogPost={blogPost} />
+                  <ProjectCard key={project.id} project={project} />
                 )
               })
               : console.log("Loading data...")

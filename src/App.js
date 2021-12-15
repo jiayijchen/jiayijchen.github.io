@@ -1,10 +1,10 @@
-import './App.css';
+import './styles/App.css';
 import React from 'react';
 import AboutMe from './components/AboutMe.js';
 import Landing from './components/Landing.js';
 import NavBar from './components/NavBar.js';
 import Blog from './components/Blog.js';
-import WIP from './components/WIP.js';
+import Portfolio from './components/Portfolio.js';
 import axios from 'axios';
 import { useState, useEffect } from 'react';
 import {
@@ -16,11 +16,21 @@ import {
 
 function App() {
   const [blogData, setBlogData] = useState([]);
+  const [projectsData, setProjectsData] = useState([]);
 
   async function getBlog() {
     try {
-      const response = await axios.get('blogposts.json');
+      const response = await axios.get('./blogposts.json');
       setBlogData(response.data);
+    } catch (error) {
+      console.error(error);
+    }
+  }
+
+  async function getProjects() {
+    try {
+      const response = await axios.get('./projects.json');
+      setProjectsData(response.data);
     } catch (error) {
       console.error(error);
     }
@@ -28,7 +38,7 @@ function App() {
 
   useEffect(() => {
     getBlog();
-    console.log(blogData);
+    getProjects();
   },[]);
 
   return (
@@ -44,7 +54,7 @@ function App() {
               <Blog blogData={blogData} />
             </Route>
             <Route path="/portfolio">
-              <WIP />
+              <Portfolio projectsData={projectsData} />
             </Route>
             <Route path="/" >
               <Landing />

@@ -1,0 +1,228 @@
+[  
+  {
+    "id": 15,
+    "name": "noteboard-app",
+    "week": "week 15",
+    "tags": 
+    [
+      "react",
+      "laravel",
+      "mvp",
+      "project management",
+      "bootcamp"
+    ],
+    "live_link": "https://noteboard-fp.web.app/",
+    "repo": "https://github.com/jiayijchen/noteboard-app",
+    "description": "My final project for the Awesome Inc U Full-Stack Web Developer Bootcamp. Noteboard is a simple note-making and note-sharing app."
+  },  
+  {
+    "id": 14,
+    "name": "google-keep-mvp",
+    "week": "week 14",
+    "tags": 
+    [
+      "mvp",
+      "project management",
+      "bootcamp"
+    ],
+    "live_link": 0,
+    "repo": "https://github.com/jiayijchen/google-keep-mvp",
+    "description": "A mockup MVP created for Google Keep featuring a kanban project board."
+  },  
+  {
+    "id": 13,
+    "name": "laravel-library",
+    "week": "week 12",
+    "tags": 
+    [
+      "laravel",
+      "php",
+      "api",
+      "database",
+      "bootcamp",
+      "incomplete"
+    ],
+    "live_link": 0,
+    "repo": 0,
+    "description": "A database created to store data for a library website."
+  },  
+  {
+    "id": 12,
+    "name": "superfacebook-api",
+    "week": "week 11",
+    "tags": 
+    [
+      "php",
+      "mysql",
+      "database",
+      "bootcamp"
+    ],
+    "live_link": 0,
+    "repo": "https://github.com/jiayijchen/superfacebook-api",
+    "description": "The first back-end project of the bootcamp. We created a database to store data and relationships for a superhero and villain social media site."
+  },  
+  {
+    "id": 11,
+    "name": "fishing-hooks-app",
+    "week": "week 10",
+    "tags": 
+    [
+      "react",
+      "react hooks",
+      "incomplete",
+      "bootcamp"
+    ],
+    "live_link": "https://a-fishing-store.web.app/",
+    "repo": "https://github.com/jiayijchen/fishing-hooks-app",
+    "description": "A mockup fishing store page utilizing React Hooks as well as an in-house products data API."
+  },  
+  {
+    "id": 10,
+    "name": "todo-list-app",
+    "week": "week 9",
+    "tags": 
+    [
+      "react",
+      "bootcamp"
+    ],
+    "live_link": "https://jchen-todo-list-app.web.app/",
+    "repo": "https://github.com/jiayijchen/todo-list-app",
+    "description": "Creating a ToDo list app using ReactJS. Our first project utilizing local storage, hosted on Firebase."
+  },  
+  {
+    "id": 9,
+    "name": "restaurant-app",
+    "week": "week 8",
+    "tags": 
+    [
+      "react",
+      "api",
+      "bootcamp"
+    ],
+    "live_link": 0,
+    "repo": "https://github.com/jiayijchen/restaurant-app",
+    "description": "The first React project. We designed a restaurant menu app using ReactJs and an in-house food data API."
+  },  
+  {
+    "id": 8,
+    "name": "tictactoe-app",
+    "week": "week 7",
+    "tags": 
+    [
+      "javascript",
+      "html",
+      "css",
+      "mobile",
+      "bootcamp"
+    ],
+    "live_link": "https://jiayijchen.github.io/tictactoe-app/",
+    "repo": "https://github.com/jiayijchen/tictactoe-app",
+    "description": "A JavaScript project featuring object-oriented programming and lots of logic to create a basic tictactoe game app. Mobile only. (a.k.a. I didn't get to resolving responsiveness issues)."
+  },  
+  {
+    "id": 7,
+    "name": "weather-app",
+    "week": "week 6",
+    "tags": 
+    [
+      "javascript",
+      "html",
+      "css",
+      "api",
+      "bootcamp"
+    ],
+    "live_link": "https://jiayijchen.github.io/weather-app/",
+    "repo": "https://github.com/jiayijchen/weather-app",
+    "description": "The first major JavaScript project of the bootcamp. It features functional programming and an axios call to the OpenWeather api to gather location-based weather data."
+  },  
+  {
+    "id": 6,
+    "name": "contact-card",
+    "week": "week 6",
+    "tags": 
+    [
+      "html",
+      "css",
+      "bootcamp",
+      "design",
+      "incomplete"
+    ],
+    "live_link": "https://jiayijchen.github.io/contact-card-project/",
+    "repo": "https://github.com/jiayijchen/contact-card-project",
+    "description": "\"Design an interactive contact card.\""
+  },  
+  {
+    "id": 5,
+    "name": "mind-reader-app",
+    "week": "week 5",
+    "tags": 
+    [
+      "javascript",
+      "html",
+      "css",
+      "bootcamp",
+      "design"
+    ],
+    "live_link": "https://jiayijchen.github.io/mind-reader-app/",
+    "repo": "https://github.com/jiayijchen/mind-reader-app",
+    "description": "A simple click-through app to practice our ability to replicate a wireframe."
+  },  
+  {
+    "id": 4,
+    "name": "bouncing-balls-app",
+    "week": "week 4",
+    "tags": 
+    [
+      "javascript",
+      "html",
+      "css",
+      "bootcamp"
+    ],
+    "live_link": "https://jiayijchen.github.io/bouncing-balls-app/",
+    "repo": "https://github.com/jiayijchen/bouncing-balls-app",
+    "description": "A small side project to practice object-oriented programming in JavaScript."
+  },  
+  {
+    "id": 3,
+    "name": "alarm-clock-app",
+    "week": "week 4",
+    "tags": 
+    [
+      "javascript",
+      "html",
+      "css",
+      "bootcamp"
+    ],
+    "live_link": "https://jiayijchen.github.io/alarm-clock-app/",
+    "repo": "https://github.com/jiayijchen/alarm-clock-app",
+    "description": "Our first JavaScript project: to develop a live clock app with an alarm setting."
+  },  
+  {
+    "id": 2,
+    "name": "silly story generator",
+    "week": "week 3",
+    "tags": 
+    [
+      "javascript",
+      "html",
+      "bootcamp"
+    ],
+    "live_link": "https://jiayijchen.github.io/silly-story-generator-app/",
+    "repo": "https://github.com/jiayijchen/silly-story-generator-app",
+    "description": "Our first assignment using JavaScript to conditionally render elements on a page."
+  },  
+  {
+    "id": 1,
+    "name": "Birdwatching Project",
+    "week": "week 2",
+    "tags": 
+    [
+      "html",
+      "css",
+      "bootcamp"
+    ],
+    "live_link": "https://jiayijchen.github.io/birdwatching-project/",
+    "repo": "https://github.com/jiayijchen/birdwatching-project",
+    "description": "A simple webpage mockup assignment creating a fake birdwatching site to practice web element placement and structuring."
+  }
+]

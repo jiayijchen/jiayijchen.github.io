@@ -10,13 +10,12 @@ export default function BlogPost(props) {
       <Card className="bg-light border-0">
         <Card.Body className="py-0">
          
-          <Card.Subtitle className="text-muted pb-2">{"Week " + props.blogPost.id}</Card.Subtitle>
+          {/* <Card.Subtitle className="text-muted pb-2">{"Week " + props.blogPost.id}</Card.Subtitle> */}
           <Card.Title className="fw-bold">{props.blogPost.name}</Card.Title>
           <Card.Text className="blog">
-            Some quick example text to build on the card title and make up the bulk of
-            the card's content.
+            {props.blogPost.description}
           </Card.Text>
-           <hr />
+           {/* <hr /> */}
         </Card.Body>
       </Card>
     </Col>
